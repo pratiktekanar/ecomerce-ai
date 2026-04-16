@@ -1,12 +1,19 @@
+# python stuff
 passlib[bcrypt]
 pymongo
 python-dotenv
+
+# backend
 fastapi
 uvicorn
 jinja2
 python-multipart
+
+# observability
 logfire
 logfire[fastapi]
+
+# ai stuff
 nest-asyncio
 pydantic-ai
 groq
